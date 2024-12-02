@@ -2,7 +2,7 @@
 
 日历
 
-```tsx
+```
 import React, { useRef, useMemo, useEffect, useState } from 'react';
 import {
   Calendar,
