@@ -1,12 +1,3 @@
----
-nav:
-  title: 组件
-  path: /components
-group:
-  title: 数据展示
-  path: /data-display
----
-
 ## Calendar 日历
 
 日历
@@ -88,5 +79,3 @@ export default () => {
   );
 };
 ```
-
-<API></API>
